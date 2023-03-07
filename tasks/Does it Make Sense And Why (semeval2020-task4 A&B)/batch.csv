@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.sentence1,Input.sentence2,Input.sentence3,Input.sentence4,Input.sentence5,Answer.Confusing Reason1,Answer.Confusing Reason2,Answer.Correct Statement,Answer.Incorrect Statement,Answer.Right Reason,Approve,Reject
+﻿Title,Description,Keywords,sentence1,sentence2,sentence3,sentence4,sentence5,Answer.Confusing Reason1,Answer.Confusing Reason2,Answer.Correct Statement,Answer.Incorrect Statement,Answer.Right Reason,Approve,Reject
 Commonsense Validation and Explanation,"write five sentences, one correct statement; one against-common-sense statement which has similar language structure with the correct statement; one right reason to explain why the statement is against common sense; two wrong reasons for confusing.","common sense, statements, reasons","An expectorant promotes the expulsion of mucus from the lungs. 
 ","eliminate is the same as exclude 
 ","To understand the event ""Grandma died."", it is important to know that Grandma was probably old. 

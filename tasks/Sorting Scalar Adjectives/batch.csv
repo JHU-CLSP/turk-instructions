@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.Adjective,Input.ClusterId,Input.Cluster,Answer.order,Approve,Reject
+﻿Title,Description,Keywords,Adjective,ClusterId,Cluster,Answer.order,Approve,Reject
 Sort adjectives by intensity,"Given a list of adjectives, sort from least intense to most intense (e.g. warm < hot < scalding)","English, language, research",important.a,3,remarkable ::: noteworthy ::: far-reaching ::: important,remarkable :::  ||| noteworthy :::  |||  ||| important ::: far-reaching :::  |||,,
 Sort adjectives by intensity,"Given a list of adjectives, sort from least intense to most intense (e.g. warm < hot < scalding)","English, language, research",important.a,3,remarkable ::: noteworthy ::: far-reaching ::: important,important :::  ||| remarkable :::  ||| far-reaching ::: noteworthy :::  |||  |||,,
 Sort adjectives by intensity,"Given a list of adjectives, sort from least intense to most intense (e.g. warm < hot < scalding)","English, language, research",important.a,3,remarkable ::: noteworthy ::: far-reaching ::: important,important :::  ||| noteworthy ::: far-reaching :::  ||| remarkable :::  |||  |||,,

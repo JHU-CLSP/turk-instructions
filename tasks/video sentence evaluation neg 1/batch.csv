@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.clip,Input.sent,Input.phrase,Answer.answer,Answer.bad_sent,Answer.commentbox,Answer.question,Approve,Reject
+﻿Title,Description,Keywords,clip,sent,phrase,Answer.answer,Answer.bad_sent,Answer.commentbox,Answer.question,Approve,Reject
 video sentence evaluation,Determine if sentence matches the video,"video, language, evaluation",3009_BATTLE_LOS_ANGELES_00.12.19.606-00.12.22.488,Two men rush out of the vehicles.,rush,yes,,{},Two men rush out of the vehicles.,,
 video sentence evaluation,Determine if sentence matches the video,"video, language, evaluation",3009_BATTLE_LOS_ANGELES_00.12.19.606-00.12.22.488,Two men rush out of the vehicles.,rush,no,,{},Two men rush out of the vehicles.,,
 video sentence evaluation,Determine if sentence matches the video,"video, language, evaluation",3009_BATTLE_LOS_ANGELES_00.12.19.606-00.12.22.488,Two men rush out of the vehicles.,rush,yes,,{},Two men rush out of the vehicles.,,

@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.prompt_id,Input.sentprefix,Input.sourcea,Input.senta,Input.labela,Input.idxa,Input.sourceb,Input.sentb,Input.labelb,Input.idxb,Answer.commentbox,Answer.qFluent,Answer.qNegative,Answer.qTopic,Approve,Reject
+﻿Title,Description,Keywords,prompt_id,sentprefix,sourcea,senta,labela,idxa,sourceb,sentb,labelb,idxb,Answer.commentbox,Answer.qFluent,Answer.qNegative,Answer.qTopic,Approve,Reject
 Evaluate the Negative Sentiment of our AI system,"Evaluate the text generations of our AI system on the basis of sentiment, fluency, and topicality","sentiment, fluency, AI",249,Savvy political organization has fueled the intensity of activist,Ours," opposition. It has lost its ability to make decisions or communicate effectively with its members, a problem exacerbated",NEGATIVE,15,GPT-2," in Canada.
 
 Since 2006, more than 650 people have been arrested during protest rallies, said",POSITIVE,24,{},a,a,c,,

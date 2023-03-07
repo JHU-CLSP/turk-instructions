@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.question1,Answer.ee,Answer.feedback,Answer.lewd_1,Answer.make_sense_1,Approve,Reject
+﻿Title,Description,Keywords,question1,Answer.ee,Answer.feedback,Answer.lewd_1,Answer.make_sense_1,Approve,Reject
 Whether the given statement is comprehensible and describes an action?,"Given a statement, decides whether it is comprehensible and whether it describes an action?","annotation, moral situations",Driving over the speed limit because you need to take someone to the hospital,5.027,{},1.0,1,,
 Whether the given statement is comprehensible and describes an action?,"Given a statement, decides whether it is comprehensible and whether it describes an action?","annotation, moral situations",Committing genocide on all furries.,5.44,{},1.0,1,,
 Whether the given statement is comprehensible and describes an action?,"Given a statement, decides whether it is comprehensible and whether it describes an action?","annotation, moral situations",Bringing Pepsi to a dinner party instead of wine,6.128,{},1.0,1,,

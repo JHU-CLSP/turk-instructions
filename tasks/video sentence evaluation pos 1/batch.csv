@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.clip,Input.sent,Input.phrase,Answer.answer,Answer.bad_sent,Answer.commentbox,Answer.question,Approve,Reject
+﻿Title,Description,Keywords,clip,sent,phrase,Answer.answer,Answer.bad_sent,Answer.commentbox,Answer.question,Approve,Reject
 video sentence evaluation,Determine if sentence matches the video,"video, language, evaluation",3009_BATTLE_LOS_ANGELES_00.03.07.170-00.03.09.675,Nantz walks and then stops.,walks,yes,,{},Nantz walks and then stops.,,
 video sentence evaluation,Determine if sentence matches the video,"video, language, evaluation",3009_BATTLE_LOS_ANGELES_00.03.07.170-00.03.09.675,Nantz walks and then stops.,walks,yes,,{},Nantz walks and then stops.,,
 video sentence evaluation,Determine if sentence matches the video,"video, language, evaluation",3009_BATTLE_LOS_ANGELES_00.03.07.170-00.03.09.675,Nantz walks and then stops.,walks,yes,,{},Nantz walks and then stops.,,

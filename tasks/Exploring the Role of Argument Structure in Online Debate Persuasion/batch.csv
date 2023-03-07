@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.key,Input.topic,Input.sentence,Input.debate,Input.generated_nodes,Answer.argument mining.label,Approve,Reject
+﻿Title,Description,Keywords,key,topic,sentence,debate,generated_nodes,Answer.argument mining.label,Approve,Reject
 Classify the type of sentences in a debate,"Classify the type of sentences in a debate into five categories: Policy, Value, Fact, Testimony, Reference","text, classification, debate, argument mining",39626,NON VOTING IN ELECTIONS MUST BE TAKEN SERIOUSLY,"Choosing not to vote weakens the fabric of democracy, so we must remove their choice.","
   
 YOU: ""I think responsible voting makes a difference. If everybody thinks that it does not matter whether he votes or abstains from voting, the fabric of democracy weakens. Because we have freedom not to vote, we abstain. Expressing choice by participating in the voting strengthens democracy.""  

@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.facts,Input.sentence,Input.model,Answer.coverage,Answer.feedback,Answer.quality,Answer.tm,Approve,Reject
+﻿Title,Description,Keywords,facts,sentence,model,Answer.coverage,Answer.feedback,Answer.quality,Answer.tm,Approve,Reject
 Evaluate the quality of the text considering the given keywords,Evaluate the quality of the text considering the given keywords,"keywords, generation",name : Zizzi | Type : coffee shop | area : riverside,Zizzi is a riverside coffee shop.,neurologic,4,{},3,6.675,,
 Evaluate the quality of the text considering the given keywords,Evaluate the quality of the text considering the given keywords,"keywords, generation",name : Zizzi | Type : coffee shop | area : riverside,Zizzi is a riverside coffee shop.,neurologic,4,{},3,6.008,,
 Evaluate the quality of the text considering the given keywords,Evaluate the quality of the text considering the given keywords,"keywords, generation",name : Zizzi | Type : coffee shop | area : riverside,Zizzi is a riverside coffee shop.,neurologic,4,{},3,29.433,,

@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.image_url,Answer.image-contains.label,Approve,Reject
+﻿Title,Description,Keywords,image_url,Answer.image-contains.label,Approve,Reject
 Does this image show a wedding?,Does this image depict a wedding?  We are interested in both Indian weddings and Western-style weddings.,"image, classification, wedding",https://s3.amazonaws.com/nets213-hw5/weddings-indian-languages/gujarati/7267/01.jpg,Yes,,
 Does this image show a wedding?,Does this image depict a wedding?  We are interested in both Indian weddings and Western-style weddings.,"image, classification, wedding",https://s3.amazonaws.com/nets213-hw5/weddings-indian-languages/gujarati/7267/01.jpg,Yes,,
 Does this image show a wedding?,Does this image depict a wedding?  We are interested in both Indian weddings and Western-style weddings.,"image, classification, wedding",https://s3.amazonaws.com/nets213-hw5/weddings-indian-languages/gujarati/7267/01.jpg,Yes,,

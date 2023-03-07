@@ -1,4 +1,4 @@
-Title,Description,Keywords,Input.source,Input.generation,Input.type,Answer.feedback,Answer.grammaticality,Answer.informativeness,Answer.relevance,Answer.tm,Approve,Reject
+﻿Title,Description,Keywords,source,generation,type,Answer.feedback,Answer.grammaticality,Answer.informativeness,Answer.relevance,Answer.tm,Approve,Reject
 Evaluate questions with respect to a given situation,Your task is to evaluate questions with respect to a given situation,"text, nlp, evaluation, morality",I gave my friend a Popsicle covered in ants,Where did you get the ants from?,pipeline,{},2,1,1,1.451,,
 Evaluate questions with respect to a given situation,Your task is to evaluate questions with respect to a given situation,"text, nlp, evaluation, morality",I gave my friend a Popsicle covered in ants,Where did you get the ants from?,pipeline,{},2,1,0,6.216,,
 Evaluate questions with respect to a given situation,Your task is to evaluate questions with respect to a given situation,"text, nlp, evaluation, morality",I gave my friend a Popsicle covered in ants,Where did you get the ants from?,pipeline,{},2,1,1,23.85,,
